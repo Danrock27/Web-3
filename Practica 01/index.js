@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Práctica 01 - INF133</title>
-</head>
-<body>
-  <h1>Práctica N° 1</h1>
-  <p><b>Nombre:</b> Daniel Gonzalo Perez Arandia</p>
-  <p><b>CI:</b> 13438683</p>
-  <p><b>Enlace a GitHub:</b> <a href="https://github.com/Danrock27/Web-3/tree/master">GitHub</a> </p>
-  <p><b>Fecha:</b> 24/09/2025</p>
-
-  <h2>Resultados</h2>
-  <p>Los resultados de los ejercicios se muestran en la consola del navegador (F12).</p>
-
-  <script>
-    console.log("========= PRÁCTICA 01 =========");
+console.log("========= PRÁCTICA 01 =========");
 
     // 1. Contar vocales
     function contarVocales(texto) {
@@ -166,7 +149,3 @@
       console.log("16:", resultado);
     }
     migrar();
-
-  </script>
-</body>
-</html>
